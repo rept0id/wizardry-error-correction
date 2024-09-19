@@ -1,1 +1,1 @@
-# error-correction-wizardry
+# wizardry-error-correction
