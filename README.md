@@ -2,7 +2,9 @@
 
 The purpose of this git is to expirement and discover the secrets of error correction codes.
 
-Error correction was one of the first algorithms field to spark human interest. 
+## History
+
+Error correction was one of the first algorithmic fields to spark human interest. 
 
 Between the **7th** and **10th** **centuries CE**, Jewish scribes formalized the `Numerical Masorah` to ensure accurate Hebrew Bible reproduction.
 
