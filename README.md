@@ -1,6 +1,6 @@
 # wizardry-error-correction
 
-The purpose of this git is to expirement and discover the secrets of error correction codes.
+The purpose of this Git is to experiment with and discover the secrets of error correction codes.
 
 ## History
 
