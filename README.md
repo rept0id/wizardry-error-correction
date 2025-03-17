@@ -1,5 +1,15 @@
 # wizardry-error-correction
 
+![wizardry-header-1](./wizardry-header-1.png)
+
+Wizardry are repos that are almost notes, but with valuable knowledge that you may find interesting!
+
+We call everyone to make "wizardry-x" repos and "awesome-wizardry" or "awesome-wizardry-x" and share what they would like to show to the rest of the people !
+
+This wizardry repo is about : Error Correction
+
+Author : Rantouan Achmet rad@simplecode.gr
+
 The purpose of this Git is to experiment with and discover the secrets of error correction codes.
 
 ## History
